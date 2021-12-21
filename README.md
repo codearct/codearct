@@ -3,8 +3,6 @@
 <h3 align="center">An Architect Who Know To Code</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codearct&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="mehmet_akif_yildiz" /></a> </p>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mehmet-akif-yildiz/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="mehmet_akif_yildiz" height="30" width="30" /></a>
@@ -39,5 +37,4 @@
 
 </p>
 <p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codearct&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
-<br>
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codearct&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" /></p>
