@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akif</h1>
 <h3 align="center">A Software Developer Being An Architect</h3>
 <h3 align="center">An Architect Who Know To Code</h3>
-<br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codearct&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="mehmet_akif_yildiz" /></a> </p>
-<br>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -38,7 +38,6 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 
 </p>
-<br>
 <p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codearct&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
 <br>
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codearct&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" /></p>
