@@ -20,7 +20,7 @@
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 <a href="https://autofac.org/" target="_blank"> <img src="https://autofac.org/img/autofac_web-banner_character.svg" alt="git" width="30" height="30"/> </a>
-<a href="https://automapper.org/" target="_blank"> <img src="https://lh3.googleusercontent.com/proxy/UFxKQYAIOeAtuLQ9pkfhKwGtm9lfLtZhopPcUO0ID5uBsvkphsxUDQbp-XyhclsHi9eAAv2T7LSDYxIXGUYhoq6wKAkwQKPh95ZY04zcy1ePBnQFDLY" alt="automapper" width="30" height="30"/> </a>
+<a href="https://automapper.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/890883?s=200&v=4" alt="automapper" width="30" height="30"/> </a>
 <a href="https://fluentvalidation.net/" target="_blank"> <img src="https://image.pngaaa.com/609/4873609-middle.png" alt="fluent_validation" width="30" height="30"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
 </a>
@@ -28,8 +28,7 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://processing.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png" alt="processing" width="30" height="30"/> </a>
 
-</p>
-  
+</p>  
 <h3 align="center">Tools:</h3>
 <p align="center">
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="visual_studio" width="30" height="30"/> </a> 
