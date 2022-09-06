@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akif</h1>
-<h3 align="center">A Software Developer Being An Architect</h3>
-<h3 align="center">An Architect Who Know To Code</h3>
+<h3 align="center">A Software Developer at Sodexo</h3>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
