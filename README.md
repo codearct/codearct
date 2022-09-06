@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akif</h1>
-<h3 align="center">A Software Developer at Sodexo</h3>
+<h3 align="center">A Software Developer @ Sodexo</h3>
 
 
 <h3 align="center">Connect with me:</h3>
