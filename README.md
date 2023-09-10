@@ -4,7 +4,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mehmet-akif-yildiz" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="mehmet_akif_yildiz" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mehmet-akif-yildiz" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/Category:LinkedIn_icons#/media/File:LinkedIn_PNG16.png" alt="mehmet_akif_yildiz" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/codearct" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" alt="12544106" height="45" width="45" /></a>
 <a href="https://www.instagram.com/may_arch82/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="mehmet_akif_yildiz" height="30" width="30" /></a>
 <a href="https://medium.com/@codearct" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@codearct" height="30" width="40" /></a>
